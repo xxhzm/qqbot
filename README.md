@@ -1,2 +1,1 @@
-go-cqhttp 服务端，请先安装 go-cqhttp
-https://docs.go-cqhttp.org/
+请前往QQ群 700181140 下载最新版
